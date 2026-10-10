@@ -1,0 +1,8 @@
+{
+  "name": "PDFKit - Free Online PDF Tools",
+  "description": "Free, 100% client-side PDF toolkit. Merge, split, rotate, organize, convert, watermark, and number PDF files directly in your browser with complete privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
